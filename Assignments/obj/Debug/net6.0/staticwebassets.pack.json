@@ -1,0 +1,745 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Assignments.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Assignments.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\12-RED.png",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\12-RED.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\Dongho.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\Dongho.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\apple watch.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\apple watch.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\apple watch_đen.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\apple watch_đen.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\dongho1.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\dongho1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\ip12.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\ip12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\ip14.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\ip14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\ip15.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\ip15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\ip15.webp",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\ip15.webp"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\ip155.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\ip155.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\ipad.png",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\ipad.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\ipad1.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\ipad1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\ipad2.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\ipad2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\iphone11promax.webp",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\iphone11promax.webp"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\iphone13.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\iphone13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\laptop1.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\laptop1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\laptop10.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\laptop10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\laptop2.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\laptop2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\laptop3.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\laptop3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\laptop4.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\laptop4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\laptop5.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\laptop5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\laptop6.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\laptop6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\laptop7.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\laptop7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\laptop8.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\laptop8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\laptop9.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\laptop9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\macbook.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\macbook.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\macbook1.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\macbook1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\macbook_trungbay.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\macbook_trungbay.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\ProductPic\\macbookpro.jpg",
+      "PackagePath": "staticwebassets\\save\\ProductPic\\macbookpro.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\save\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\css\\elegant-icons.css",
+      "PackagePath": "staticwebassets\\save\\css\\elegant-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\save\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\css\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\save\\css\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\save\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\save\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\css\\slicknav.min.css",
+      "PackagePath": "staticwebassets\\save\\css\\slicknav.min.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\css\\style.css",
+      "PackagePath": "staticwebassets\\save\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\fonts\\ElegantIcons.eot",
+      "PackagePath": "staticwebassets\\save\\fonts\\ElegantIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\fonts\\ElegantIcons.svg",
+      "PackagePath": "staticwebassets\\save\\fonts\\ElegantIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\fonts\\ElegantIcons.ttf",
+      "PackagePath": "staticwebassets\\save\\fonts\\ElegantIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\fonts\\ElegantIcons.woff",
+      "PackagePath": "staticwebassets\\save\\fonts\\ElegantIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\save\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\save\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\save\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\save\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\save\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\save\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\banner\\banner-1.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\banner\\banner-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\banner\\banner-2.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\banner\\banner-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\blog\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\blog\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\blog\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\blog\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\blog\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\blog\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\blog\\blog-4.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\blog\\blog-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\blog\\blog-5.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\blog\\blog-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\blog\\blog-6.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\blog\\blog-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\blog\\details\\details-author.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\blog\\details\\details-author.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\blog\\details\\details-hero.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\blog\\details\\details-hero.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\blog\\details\\details-pic.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\blog\\details\\details-pic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\blog\\sidebar\\sr-1.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\blog\\sidebar\\sr-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\blog\\sidebar\\sr-2.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\blog\\sidebar\\sr-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\blog\\sidebar\\sr-3.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\blog\\sidebar\\sr-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\breadcrumb.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\breadcrumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\cart\\cart-1.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\cart\\cart-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\cart\\cart-2.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\cart\\cart-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\cart\\cart-3.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\cart\\cart-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\categories\\cat-1.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\categories\\cat-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\categories\\cat-2.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\categories\\cat-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\categories\\cat-3.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\categories\\cat-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\categories\\cat-4.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\categories\\cat-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\categories\\cat-5.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\categories\\cat-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\featured\\feature-1.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\featured\\feature-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\featured\\feature-2.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\featured\\feature-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\featured\\feature-3.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\featured\\feature-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\featured\\feature-4.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\featured\\feature-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\featured\\feature-5.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\featured\\feature-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\featured\\feature-6.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\featured\\feature-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\featured\\feature-7.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\featured\\feature-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\featured\\feature-8.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\featured\\feature-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\hero\\banner.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\hero\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\language.png",
+      "PackagePath": "staticwebassets\\save\\img\\language.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\latest-product\\lp-1.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\latest-product\\lp-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\latest-product\\lp-2.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\latest-product\\lp-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\latest-product\\lp-3.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\latest-product\\lp-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\logo.png",
+      "PackagePath": "staticwebassets\\save\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\payment-item.png",
+      "PackagePath": "staticwebassets\\save\\img\\payment-item.png"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\details\\product-details-1.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\details\\product-details-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\details\\product-details-2.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\details\\product-details-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\details\\product-details-3.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\details\\product-details-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\details\\product-details-4.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\details\\product-details-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\details\\product-details-5.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\details\\product-details-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\details\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\details\\thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\details\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\details\\thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\details\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\details\\thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\details\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\details\\thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\discount\\pd-1.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\discount\\pd-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\discount\\pd-2.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\discount\\pd-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\discount\\pd-3.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\discount\\pd-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\discount\\pd-4.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\discount\\pd-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\discount\\pd-5.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\discount\\pd-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\discount\\pd-6.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\discount\\pd-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\product-1.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\product-10.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\product-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\product-11.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\product-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\product-12.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\product-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\product-2.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\product-3.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\product-4.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\product-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\product-5.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\product-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\product-6.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\product-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\product-7.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\product-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\product-8.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\product-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\img\\product\\product-9.jpg",
+      "PackagePath": "staticwebassets\\save\\img\\product\\product-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\save\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\save\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\js\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\save\\js\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\save\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\js\\jquery.slicknav.js",
+      "PackagePath": "staticwebassets\\save\\js\\jquery.slicknav.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\js\\main.js",
+      "PackagePath": "staticwebassets\\save\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\js\\mixitup.min.js",
+      "PackagePath": "staticwebassets\\save\\js\\mixitup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\LENOVO\\Downloads\\NET104_Assigment-master\\NET104_Assigment-master\\Assignments\\wwwroot\\save\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\save\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Assignments.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Assignments.props",
+      "PackagePath": "build\\Assignments.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Assignments.props",
+      "PackagePath": "buildMultiTargeting\\Assignments.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Assignments.props",
+      "PackagePath": "buildTransitive\\Assignments.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

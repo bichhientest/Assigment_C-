@@ -1,0 +1,118 @@
+﻿@model Assignments.Models.TbProduct
+
+@{
+    ViewData["Title"] = "ProductList";
+    var ProductList = TempData["ProductList"] as List<TbProduct>;
+}
+
+<div class="container" style="padding-bottom: 100px !important; padding-top: 100px !important;min-height:500px;">
+    <div>
+        <h2 class="float-start">Product</h2>
+      @*   <button type="button" class="btn btn-primary float-end" data-bs-toggle="modal" data-bs-target="#exampleModal">
+            Add
+        </button> *@
+        <a class="float-end" asp-action="AddProduct">ADD</a>
+    </div>
+    @if (ProductList != null && ProductList.Any())
+    {
+
+
+        <table class="table table-striped  ">
+            <thead class="text-center">
+                <tr>
+                    <th>ProductId</th>
+                    <th>Image</th>
+                    <th>ProductName</th>
+                    <th>CategoryId</th>
+                    <th>Price</th>
+                    
+
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var product in ProductList)
+                {
+                    <tr>
+                        <td>@product.ProductId</td>
+                        <td>
+                            <img src="~/save/ProductPic/@product.Descriptions" alt="@product.ProductName" width="30%" />
+                        </td>
+                        <td>@product.ProductName</td>
+                        <td>@product.CategoryId</td>
+                        <td>@product.Price</td>
+                       
+
+                        <td>
+                            <!-- Edit link/button -->
+                            <a asp-action="EditProduct" asp-route-id="@product.ProductId">Edit </a>|
+                            <!-- Delete link/button -->
+                            <a asp-action="DeleteProduct" asp-route-id="@product.ProductId">Delete</a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+
+        <div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered">
+                <form asp-action="AddProduct">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <h5 class="modal-title" id="exampleModalLabel">Add Laptop</h5>
+                            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                        </div>
+                        <div class="modal-body">
+
+                            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                            <div class="row align-items-start">
+                                <div class="col-3">
+                                    <div class="form-group">
+                                        <label asp-for="ProductId" class="control-label"></label>
+                                        <input asp-for="ProductId" class="form-control" />
+                                        <span asp-validation-for="ProductId" class="text-danger"></span>
+                                    </div>
+                                </div>
+                                <div class="col-9">
+                                    <div class="form-group">
+                                        <label asp-for="ProductName" class="control-label"></label>
+                                        <input asp-for="ProductName" class="form-control" />
+                                        <span asp-validation-for="ProductName" class="text-danger"></span>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                </div>
+                                <div class="col-6">
+                                    <div class="form-group">
+                                        <label asp-for="CategoryId" class="control-label"></label>
+                                        <input asp-for="CategoryId" class="form-control" />
+                                        <span asp-validation-for="CategoryId" class="text-danger"></span>
+                                    </div>
+                                </div>
+                                <div class="col-6">
+                                    <div class="form-group">
+                                        <label asp-for="Price" class="control-label"></label>
+                                        <input asp-for="Price" class="form-control" />
+                                        <span asp-validation-for="Price" class="text-danger"></span>
+                                    </div>
+                                </div>
+                                <div class="col-6">
+                                    <div class="form-group">
+                                        <label asp-for="Descriptions" class="control-label"></label>
+                                        <input asp-for="Descriptions" class="form-control" />
+                                        <span asp-validation-for="Descriptions" class="text-danger"></span>
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                            <input type="submit" value="Add" class="btn btn-primary" />
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    }
+</div>
